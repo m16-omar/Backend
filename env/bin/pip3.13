@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/kingsmactec/Downloads/development/apps /emart_store_backend/env/bin/python3.13" "$0" "$@"
-' '''
+#!/Users/kingsmactec/Downloads/development/backends/emart_store_backend/myenv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
